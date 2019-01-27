@@ -1,0 +1,178 @@
+
+.divo{background-color:clear;
+	height:400px;
+	width:100%;}
+.div1{background-color:cyan;
+	float:left;
+	margin-top:10px
+	margin-right:0%;
+	width:49%;
+	margin:2px 2px 2px 2px;
+	height:700px;}
+.div1:hover{background-color:grey///;}
+.div2{border:1px solid blkack;
+	background-color:ye//llow;
+	height:700px;
+	float:left;
+		
+
+	width:50%;
+	margin:1px 1px 1px 1px;
+	}
+
+.div3{background-color:pink;
+	height:98%;
+	width:98%;
+	float:right;
+	margin:10px 5px 5px 5px;
+	
+	}
+ul{
+	cursor:pointer;
+	list-style-type: none;
+	overflow: hidden;
+	margin:0;
+	padding:0;
+	width:100%
+	position:fixed;
+	top:0;
+	overflow:hidden;
+	background-color:black;
+}
+ul:hover{background-color: purple;}
+ul:active{background-color:blue;}
+
+
+
+li	{
+	display: block;
+	float: left;
+	}
+li a	{display:block;
+	color:white;
+	font-size:40px
+	text-align:center;
+	padding:15px 40px;
+	text-decoration:none;
+	transition:0.3s;
+}
+
+li a.active{background-color:red
+	color:white;
+}
+li a:hover{
+	background-color: navy;
+	font-size:20px;
+	color:white;}
+
+ul.li.right {float: right;}
+
+@media screen and (max-width: 600px){
+    ul.li.right, 
+    ul.li {float: none;}
+}
+
+
+.iframe{height:690px;width:100%;
+	border:none;}
+.heading{
+	background-color:clear;	
+	color:blue;
+	text-align:center;
+	font-size:3px;
+	margin-top:2px;
+	font-family:rsfs10;
+	width:100%;
+	height:100px;}
+.footer{ 	
+		background-color:black;
+		height:200px;
+	}
+
+
+
+.foot{
+
+	background-color:black;
+	height:300px;
+	width:100%}
+
+
+
+
+div.img {
+	border:1px solid purple;
+
+	}
+div.img:hover{
+	border 1px solid pink;
+	}
+div.img img{
+
+ 	width:100%;
+	height:300px;
+	margin-right:10px;
+	}
+div.desc{
+	padding:30px;
+	text-align:center;
+ 	}
+* {
+ 	box-sizing: border-box;
+}
+. responsive{
+	padding: 10px 10px;
+	float:left;
+	width: 40.999999%;
+	}
+@media only screen and (max-width: 700px){
+	.responsive{
+		width: 70.99999%;
+		margin:6px 0;
+	}
+}	
+ @media only screen and (max-width: 500px){
+	.responsive{
+		width:auto;
+	}
+
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+.swipe{
+
+background-color:yellow;
+	float:left;
+	margin-top:10px;
+	margin-right:0%;
+	width:49%;
+	height:400px;
+
+}
+.swipe1{
+border:1px solid black;
+	background-color:red;
+	height:400px;
+	float:left;
+		
+
+	width:50%;
+	margin:5px 5px 5px 5px;
+
+
+}
+
