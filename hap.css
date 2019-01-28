@@ -1,5 +1,10 @@
 
-
+#search{
+width:650px;
+background-color:cyan;
+height:110px;
+width:100%;
+text-align:center;
 }
 
 .divo{background-color:clear;
